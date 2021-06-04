@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "edu.pages.dev",
+  "Id": "601e2682-f04a-4f24-a451-61ea9f8c9be3"
+}
